@@ -13,6 +13,9 @@
     },
     "monorepo": {
       "tags": []
+    },
+    "auth": {
+      "tags": []
     }
   }
 }
