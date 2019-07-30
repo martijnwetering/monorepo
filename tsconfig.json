@@ -16,6 +16,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@monolib/*": ["libs/*"],
       "@monorepo/auth": ["libs/auth/src/index.ts"]
     }
   },
